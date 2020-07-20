@@ -2,11 +2,7 @@
 
 <br>
 
-<p align="center">
-<img src=""  alt="Logo">
-</p>
 
-<br>
 
 <br>
 
